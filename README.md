@@ -5,8 +5,10 @@
 起床摸鱼，吃饭摸鱼，打游戏摸鱼，手冲摸鱼，听课摸鱼，复习摸鱼，考试摸鱼，上班摸鱼，开会摸鱼，出差摸鱼，值岗摸鱼<sup>[来源](https://t.me/wikipedia_zh_game/736369)</sup>  
 [![lifegpc's github stats](https://github-readme-stats.vercel.app/api?username=lifegpc&show_icons=true&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifegpc&layout=compact&exclude_repo=lifegpc.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+<details>
+<summary>gpg公钥</summary>
+<p>
 
-gpg公钥：
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -60,3 +62,6 @@ zRlD7colcKT/F5NAG5kohc2QGuK8KHyRMfeg80YsddbKr1XSOo3QxS2Ecg==
 =DTeS
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</p>
+</details>
