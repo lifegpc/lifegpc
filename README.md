@@ -68,7 +68,7 @@ zRlD7colcKT/F5NAG5kohc2QGuK8KHyRMfeg80YsddbKr1XSOo3QxS2Ecg==
 <details>
 <summary>To FeiBam and 戈登走过去</summary>
 <details>
-<summary>FaiBam</summary>
+<summary>FeiBam</summary>
 <p>
 
 ```
