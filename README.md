@@ -1,4 +1,4 @@
-网游之梦幻法师怎么寄了啊！！！！！！  
+[网游之梦幻法师](https://web.archive.org/web/20190729204452/http://book.zongheng.com/book/305236.html)怎么寄了啊！！！！！！  
 [Meson](https://mesonbuild.com/) 就是坨屎（交叉编译简直就是傻逼）。  
 [磷猫](https://zh.wikipedia.org/wiki/User:WhitePhosphorus)有言：  
 早上摸鱼，中午摸鱼，晚上摸鱼，凌晨摸鱼<sup>[来源](https://t.me/wikipedia_zh_game/736361)</sup>  
