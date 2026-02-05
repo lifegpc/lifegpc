@@ -1,2 +1,2 @@
-[![lifegpc's github stats](https://github-readme-stats.vercel.app/api?username=lifegpc&show_icons=true&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifegpc&layout=compact&exclude_repo=lifegpc.github.io,libbluray-MSVC,libudfread-MSVC,xavs-MSVC,lzip-MSVC,bzip2-MSVC,ogg-acm-codec-cmake,zlib&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+[![lifegpc's github stats](https://grs.lifegpc.com/api?username=lifegpc&show_icons=true&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://grs.lifegpc.com/api/top-langs/?username=lifegpc&layout=compact&exclude_repo=lifegpc.github.io,libbluray-MSVC,libudfread-MSVC,xavs-MSVC,lzip-MSVC,bzip2-MSVC,ogg-acm-codec-cmake,zlib&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
